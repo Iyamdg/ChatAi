@@ -3,7 +3,7 @@ import gradio as gr
 import csv
 import sys
 
-openai.api_key = "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"
+openai.api_key = "sk-QkKEJ0Xujvy9zm60UTmcT3BlbkFJZlZUTIBE5Vz5a50a9U"
 
 csv_file_path = r"C:\Users\gmann\Downloads\data.csv"
 
