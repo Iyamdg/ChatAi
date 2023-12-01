@@ -26,7 +26,7 @@ Custom Styling: The current CSS is themed for Morgan State University. You can m
 
 ### Usage
 To run the chatbot, execute the provided Python script:
-python chatbot_script.py
+python MorgAIchat.py
 
 This will start a local web server and the Gradio interface will be accessible through your web browser.
 
